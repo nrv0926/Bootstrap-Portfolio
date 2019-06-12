@@ -1,0 +1,87 @@
+<style>.body {
+    max-width: 960px;
+}
+
+#navbar {
+    padding-bottom: 0px;
+}
+
+#name {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4aaaa5;
+    padding: 0px 20px;
+}
+
+#navbarNav {
+    padding-left: 600px;
+    margin-left: 15px;
+    line-height: 18px;
+    color: #777777;
+    text-decoration: none;
+    float: right;
+    margin-top: 25px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.borderBottom {
+    border-bottom: 2px solid #cccccc;
+    padding-top: -15px;
+}
+
+
+/* main body css*/
+
+#main-container {
+    margin-top: 30px;
+    border: 2px solid #cccccc;
+    max-width: 960px;
+    margin: 30px auto;
+}
+
+.page-header {
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+    margin: 20px 20px;
+    margin-top: 25px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#footer {
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+}
+
+
+/*portfolio style*/
+
+#row-1 {
+    text-align: center;
+    padding-top: 45px;
+    padding-left: 140px;
+}
+
+#row-2 {
+    text-align: center;
+    padding-left: 140px;
+}
+
+#row-3 {
+    text-align: center;
+    padding-top: 45px;
+    padding-left: 140px;
+}
+
+</style>
